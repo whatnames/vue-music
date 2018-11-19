@@ -1,4 +1,4 @@
-# mymisic
+# mymusic
 
 > A Vue.js project
 
