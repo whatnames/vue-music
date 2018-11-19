@@ -1,0 +1,39 @@
+import types from './mutation-types'
+export default {
+	[types.SET_PLAY_LIST](state,list){
+		state.playList=list;
+	},
+	[types.SET_ORDER_LIST](state,list){
+		state.orderList=list;
+	},
+	[types.SET_PLAYING](state,playing){
+		state.playing=playing;
+	},
+	[types.SET_INDEX](state,index){
+		state.index=index;
+	},
+	[types.SET_MODE](state,mode){
+		state.mode=mode;
+	},
+	[types.SET_FULL_PAGE](state,flag){
+		state.fullPage=flag;
+	},
+	[types.SET_TOP_LIST](state,list){
+		state.topList=list;
+	},
+	[types.SET_SEARCH_HISTORY](state,historyAray){
+		state.searchHistory=historyAray;
+	},
+	[types.SET_COVER_IMG](state,img){
+		state.coverImg=img;
+	},
+	[types.SET_FAVORATE_SONGS](state,songs){
+		state.favorate_songs=songs;
+	},
+	[types.SET_PLAY_HISTORY](state,songs){
+		state.playHistory=songs;
+	},
+	[types.SET_TOP_NAME](state,name){
+		state.topName=name;
+	}
+}
