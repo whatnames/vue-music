@@ -2,6 +2,10 @@
 
 > A Vue.js project
 
+# api
+ 网易云音乐nodejs版  https://github.com/Binaryify/NeteaseCloudMusicApi 
+ 下载后安装node.js  打开cmd进去到根目录执行node app即可。
+
 ## Build Setup
 
 ``` bash
