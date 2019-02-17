@@ -5,7 +5,16 @@
 # api
  网易云音乐nodejs版  https://github.com/Binaryify/NeteaseCloudMusicApi 
  下载后安装node.js  打开cmd进去到根目录执行node app即可。
-
+# 截图
+![Image text](https://raw.githubusercontent.com/whatnames/images/master/1.PNG)
+![Image text](https://raw.githubusercontent.com/whatnames/images/master/2.PNG)
+![Image text](https://raw.githubusercontent.com/whatnames/images/master/3.PNG)
+![Image text](https://raw.githubusercontent.com/whatnames/images/master/4.PNG)
+![Image text](https://raw.githubusercontent.com/whatnames/images/master/5.PNG)
+![Image text](https://raw.githubusercontent.com/whatnames/images/master/6.PNG)
+![Image text](https://raw.githubusercontent.com/whatnames/images/master/7.PNG)
+![Image text](https://raw.githubusercontent.com/whatnames/images/master/8.PNG)
+![Image text](https://raw.githubusercontent.com/whatnames/images/master/9.PNG)
 ## Build Setup
 
 ``` bash
